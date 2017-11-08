@@ -1,0 +1,7 @@
+2017-01-26 16:49:22,066 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(80)]: --------------------------------------------------------------------------------
+2017-01-26 16:49:22,117 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(81)]: JPPF Version: 5.2.1, Build number: 1867, Build date: 2016-08-22 07:46 CEST
+2017-01-26 16:49:22,119 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(82)]: starting node with PID=24961, UUID=5505F448-516E-9C24-40B3-8830920B1B98
+2017-01-26 16:49:22,119 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(83)]: --------------------------------------------------------------------------------
+2017-01-26 16:49:23,770 [INFO ][org.jppf.classloader.ClassLoaderRequestHandler.run(156)]: maxBatchSize = 1
+2017-01-26 16:49:23,929 [INFO ][org.jppf.execute.AbstractExecutionManager.<init>(111)]: running 2 processing threads
+2017-01-26 16:49:23,954 [INFO ][org.jppf.execute.AbstractExecutionManager.createThreadManager(137)]: Using default thread manager

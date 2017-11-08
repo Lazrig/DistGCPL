@@ -1,0 +1,3205 @@
+node process id: 24950, uuid: 1989E6FE-6B72-53B9-7581-AC5C43F95901
+Attempting connection to the class server at localhost:11112
+RemoteClassLoaderConnection: Reconnected to the class server
+JPPF Node management initialized on port 12013
+Attempting connection to the node server at localhost:11112
+Reconnected to the node server
+Node successfully initialized
+
+Task: J-0-4119-0x0-23024.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+Round (0) found 22 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+Round (1) found 2 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23025
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23026
+Round (3) found 0 Matches
+
+Total time: 774.538 sec!
+
+Task: J-0-6312-0x0-23132.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+Round (0) found 17 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23133
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23134
+Round (3) found 0 Matches
+
+Total time: 480.773 sec!
+
+Task: J-0-12522-0x0-23222.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23223
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23224
+Round (3) found 0 Matches
+
+Total time: 67.001 sec!
+
+Task: J-0-8437-0x0-23234.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23235
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23236
+Round (3) found 0 Matches
+
+Total time: 60.37 sec!
+
+Task: J-0-8448-0x0-23258.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23259
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23260
+Round (3) found 0 Matches
+
+Total time: 65.698 sec!
+
+Task: J-0-272-0x0-23294.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23295
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23296
+Round (3) found 0 Matches
+
+Total time: 60.621 sec!
+
+Task: J-0-276-0x0-23306.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23307
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23308
+Round (3) found 0 Matches
+
+Total time: 61.751 sec!
+
+Task: J-0-18714-0x0-23318.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23319
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23320
+Round (3) found 0 Matches
+
+Total time: 62.575 sec!
+
+Task: J-0-14595-0x0-23270.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+Round (0) found 22 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23271
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23272
+Round (3) found 0 Matches
+
+Total time: 623.81 sec!
+
+Task: J-0-8555-0x0-23438.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+Round (0) found 19 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+Round (1) found 2 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23439
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23440
+Round (3) found 0 Matches
+
+Total time: 497.225 sec!
+
+Task: J-1-14789-0x0-23564.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23565
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23566
+Round (3) found 0 Matches
+
+Total time: 64.332 sec!
+
+Task: J-1-18867-0x0-23534.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23535
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23536
+Round (3) found 0 Matches
+
+Total time: 66.264 sec!
+
+Task: J-1-16825-0x0-23546.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (0) found 15 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (3) found 0 Matches
+
+Total time: 395.885 sec!
+
+Task: J-1-16900-0x0-23678.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+Round (0) found 10 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23679
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23680
+Round (3) found 0 Matches
+
+Total time: 452.694 sec!
+
+Task: J-1-19019-0x0-23756.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+Round (0) found 15 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23757
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23758
+Round (3) found 0 Matches
+
+Total time: 457.804 sec!
+
+Task: J-1-10892-0x0-23870.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23871
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23872
+Round (3) found 0 Matches
+
+Total time: 58.529 sec!
+
+Task: J-1-4754-0x0-23894.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23895
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23896
+Round (3) found 0 Matches
+
+Total time: 56.753 sec!
+
+Task: J-1-8855-0x0-23918.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+Round (0) found 30 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+Round (1) found 4 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23919
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23920
+Round (3) found 0 Matches
+
+Total time: 1311.523 sec!
+
+Task: J-2-2920-0x0-24278.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24279
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24280
+Round (3) found 0 Matches
+
+Total time: 58.413 sec!
+
+Task: J-2-13247-0x0-24416.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24417
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24418
+Round (3) found 0 Matches
+
+Total time: 56.371 sec!
+
+Task: J-2-7069-0x0-24356.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24357
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24358
+Round (3) found 0 Matches
+
+Total time: 52.743 sec!
+
+Task: J-2-923-0x0-24350.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24351
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24352
+Round (3) found 0 Matches
+
+Total time: 43.302 sec!
+
+Task: J-2-908-0x0-24344.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24345
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24346
+Round (3) found 0 Matches
+
+Total time: 55.001 sec!
+
+Task: J-2-9089-0x0-24326.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+Round (0) found 26 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+Round (1) found 2 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24327
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24328
+Round (3) found 0 Matches
+
+Total time: 847.639 sec!
+
+Task: J-2-13340-0x0-24530.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24531
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24532
+Round (3) found 0 Matches
+
+Total time: 61.062 sec!
+
+Task: J-2-11307-0x0-24560.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+Round (0) found 20 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24561
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24562
+Round (3) found 0 Matches
+
+Total time: 641.04 sec!
+
+Task: J-2-15476-0x0-24638.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+Round (0) found 31 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24639
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24640
+Round (3) found 0 Matches
+
+Total time: 1689.258 sec!
+
+Task: J-3-5400-0x0-24818.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+Round (0) found 14 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+Round (1) found 2 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24819
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24820
+Round (3) found 0 Matches
+
+Total time: 521.923 sec!
+
+Task: J-3-7523-0x0-24884.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24885
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24886
+Round (3) found 0 Matches
+
+Total time: 66.614 sec!
+
+Task: J-3-7529-0x0-24890.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+Round (0) found 15 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24891
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24892
+Round (3) found 0 Matches
+
+Total time: 582.075 sec!
+
+Task: J-3-7598-0x0-24974.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+Round (0) found 35 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+Round (1) found 3 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24975
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24976
+Round (3) found 0 Matches
+
+Total time: 1676.523 sec!
+
+Task: J-4-18079-0x0-25220.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25221
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25222
+Round (3) found 0 Matches
+
+Total time: 59.298 sec!
+
+Task: J-4-18281-0x0-25454.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+Round (0) found 13 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+Round (1) found 2 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25455
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25456
+Round (3) found 0 Matches
+
+Total time: 415.692 sec!
+
+Task: J-4-3851-0x0-25352.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+Round (0) found 19 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+Round (2) found 2 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25353
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25354
+Round (3) found 0 Matches
+
+Total time: 651.098 sec!
+
+Task: J-4-10088-0x0-25448.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+Round (0) found 17 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25449
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25450
+Round (3) found 0 Matches
+
+Total time: 526.262 sec!
+
+Task: J-4-10167-0x0-25526.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25527
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25528
+Round (3) found 0 Matches
+
+Total time: 67.977 sec!
+
+Task: J-4-6084-0x0-25550.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+Round (0) found 14 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+Round (1) found 3 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25551
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25552
+Round (3) found 0 Matches
+
+Total time: 445.792 sec!
+
+Task: J-0-19472-0x0-23060.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (3) found 0 Matches
+
+Total time: 35.601 sec!
+
+Task: J-0-19501-0x0-23126.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23127
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23128
+Round (3) found 0 Matches
+
+Total time: 47.838 sec!
+
+Task: J-0-8716-0x0-23042.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+Round (0) found 12 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+Round (1) found 2 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23043
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23044
+Round (3) found 0 Matches
+
+Total time: 1587.378 sec!
+
+Task: J-0-584-0x0-23186.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23187
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23188
+Round (3) found 0 Matches
+
+Total time: 73.28 sec!
+
+Task: J-0-112-0x0-23282.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (3) found 0 Matches
+
+Total time: 75.558 sec!
+
+Task: J-0-14968-0x0-23288.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+Round (0) found 17 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+Round (1) found 5 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23289
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23290
+Round (3) found 0 Matches
+
+Total time: 1870.823 sec!
+
+Task: J-1-19618-0x0-23372.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23373
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23374
+Round (3) found 0 Matches
+
+Total time: 69.558 sec!
+
+Task: J-1-3756-0x0-23384.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+Round (0) found 14 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23385
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23386
+Round (3) found 0 Matches
+
+Total time: 2147.803 sec!
+
+Task: J-1-9434-0x0-23480.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+Round (0) found 20 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+Round (1) found 4 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23481
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23482
+Round (3) found 0 Matches
+
+Total time: 1864.815 sec!
+
+Task: J-1-16203-0x0-23636.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+Round (0) found 13 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+Round (1) found 7 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23637
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23638
+Round (3) found 0 Matches
+
+Total time: 1747.235 sec!
+
+Task: J-2-4473-0x0-23732.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (0) found 13 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (1) found 5 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (3) found 0 Matches
+
+Total time: 2035.282 sec!
+
+Task: J-2-1984-0x0-23936.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+Round (0) found 16 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+Round (1) found 8 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23937
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23938
+Round (3) found 0 Matches
+
+Total time: 1518.018 sec!
+
+Task: J-0-14871-0x0-23108.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23109
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23110
+Round (3) found 0 Matches
+
+Total time: 101.701 sec!
+
+Task: J-0-10317-0x0-23360.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+Round (0) found 3 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+Round (1) found 3 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23361
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23362
+Round (3) found 0 Matches
+
+Total time: 143.195 sec!
+
+Task: J-0-10844-0x0-23390.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+Round (0) found 3 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23391
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23392
+Round (3) found 0 Matches
+
+Total time: 79.356 sec!
+
+Task: J-0-5184-0x0-23282.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (0) found 2 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23283
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23284
+Round (3) found 0 Matches
+
+Total time: 76.469 sec!
+
+Task: J-0-6719-0x0-23276.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23277
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23278
+Round (3) found 0 Matches
+
+Total time: 90.731 sec!
+
+Task: J-0-11277-0x0-23060.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (0) found 4 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23061
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23062
+Round (3) found 0 Matches
+
+Total time: 94.332 sec!
+
+Task: J-0-5130-0x0-23036.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+Round (0) found 2 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23037
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23038
+Round (3) found 0 Matches
+
+Total time: 99.44 sec!
+
+Task: J-0-11881-0x0-23456.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+Round (1) found 2 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23457
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23458
+Round (3) found 0 Matches
+
+Total time: 129.447 sec!
+
+Task: J-0-7289-0x0-23546.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (0) found 2 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23547
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23548
+Round (3) found 0 Matches
+
+Total time: 100.284 sec!
+
+Task: J-0-13961-0x0-23600.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23601
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23602
+Round (3) found 0 Matches
+
+Total time: 82.799 sec!
+
+Task: J-0-16535-0x0-23654.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23655
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23656
+Round (3) found 0 Matches
+
+Total time: 104.68 sec!
+
+Task: J-0-14507-0x0-23732.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23733
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23734
+Round (3) found 0 Matches
+
+Total time: 83.858 sec!
+
+Task: J-1-9906-0x0-23762.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23763
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23764
+Round (3) found 0 Matches
+
+Total time: 108.006 sec!
+
+Task: J-1-2245-0x0-23858.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23859
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23860
+Round (3) found 0 Matches
+
+Total time: 94.708 sec!
+
+Task: J-1-17105-0x0-23906.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23907
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23908
+Round (3) found 0 Matches
+
+Total time: 94.021 sec!
+
+Task: J-1-19681-0x0-23960.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+Round (0) found 3 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :23961
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :23962
+Round (3) found 0 Matches
+
+Total time: 146.502 sec!
+
+Task: J-1-2291-0x0-24068.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+Round (0) found 2 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24069
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24070
+Round (3) found 0 Matches
+
+Total time: 115.651 sec!
+
+Task: J-1-17160-0x0-24140.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+Round (0) found 2 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24141
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24142
+Round (3) found 0 Matches
+
+Total time: 93.468 sec!
+
+Task: J-1-6421-0x0-24200.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24201
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24202
+Round (3) found 0 Matches
+
+Total time: 88.592 sec!
+
+Task: J-1-10019-0x0-24260.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24261
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24262
+Round (3) found 0 Matches
+
+Total time: 112.986 sec!
+
+Task: J-1-5427-0x0-24338.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+Round (0) found 2 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24339
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24340
+Round (3) found 0 Matches
+
+Total time: 111.715 sec!
+
+Task: J-1-6464-0x0-24392.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+Round (0) found 0 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+Round (2) found 1 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24393
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24394
+Round (3) found 0 Matches
+
+Total time: 84.115 sec!
+
+Task: J-1-1359-0x0-24458.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+Round (0) found 5 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24459
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24460
+Round (3) found 0 Matches
+
+Total time: 110.013 sec!
+
+Task: J-2-860-0x0-24506.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24507
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24508
+Round (3) found 0 Matches
+
+Total time: 101.211 sec!
+
+Task: J-2-7025-0x0-24608.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24609
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24610
+Round (3) found 0 Matches
+
+Total time: 72.156 sec!
+
+Task: J-2-19817-0x0-24578.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24579
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24580
+Round (3) found 0 Matches
+
+Total time: 123.767 sec!
+
+Task: J-2-4484-0x0-24668.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+Round (0) found 5 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24669
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24670
+Round (3) found 0 Matches
+
+Total time: 167.422 sec!
+
+Task: J-2-8096-0x0-24806.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+Round (0) found 3 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24807
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24808
+Round (3) found 0 Matches
+
+Total time: 113.528 sec!
+
+Task: J-2-18350-0x0-24866.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24867
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24868
+Round (3) found 0 Matches
+
+Total time: 87.468 sec!
+
+Task: J-2-19391-0x0-24920.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+Round (0) found 1 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24921
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24922
+Round (3) found 0 Matches
+
+Total time: 96.424 sec!
+
+Task: J-2-1485-0x0-24986.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+Round (0) found 5 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :24987
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :24988
+Round (3) found 0 Matches
+
+Total time: 125.821 sec!
+
+Task: J-2-14298-0x0-25046.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+Round (0) found 5 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+Round (1) found 0 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25047
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25048
+Round (3) found 0 Matches
+
+Total time: 157.973 sec!
+
+Task: J-2-9717-0x0-25154.. BF#:1-1/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+Round (0) found 2 Matches
+.. BF#:2-1/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+Round (1) found 1 Matches
+.. BF#:3-1/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+Round (2) found 0 Matches
+.. BF#:4-1/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-2/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+-3/4
+ GC thread pool finalized.. results ready ..free ports from :25155
+-4/4
+ GC thread pool finalized.. results ready ..free ports from :25156
+Round (3) found 0 Matches
+
+Total time: 98.97 sec!

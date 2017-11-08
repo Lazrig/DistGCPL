@@ -1,0 +1,5 @@
+2017-01-26 16:48:57,042 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(80)]: --------------------------------------------------------------------------------
+2017-01-26 16:48:57,052 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(81)]: JPPF Version: 5.2.1, Build number: 1867, Build date: 2016-08-22 07:46 CEST
+2017-01-26 16:48:57,052 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(82)]: starting driver with PID=40471, UUID=D6DA5A46-EA84-8AB9-906C-1C257417E26C
+2017-01-26 16:48:57,053 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(83)]: --------------------------------------------------------------------------------
+2017-01-26 16:48:57,247 [INFO ][org.jppf.nio.NioConstants.getCheckConnection(81)]: NIO checks are enabled

@@ -1,0 +1,22 @@
+2017-01-26 16:49:23,299 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(80)]: --------------------------------------------------------------------------------
+2017-01-26 16:49:23,351 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(81)]: JPPF Version: 5.2.1, Build number: 1867, Build date: 2016-08-22 07:46 CEST
+2017-01-26 16:49:23,354 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(82)]: starting node with PID=25034, UUID=B63A5D3C-F676-DC0D-E731-3ABCDD0A8214
+2017-01-26 16:49:23,354 [INFO ][org.jppf.utils.VersionUtils.logVersionInformation(83)]: --------------------------------------------------------------------------------
+2017-01-26 16:49:25,660 [INFO ][org.jppf.classloader.ClassLoaderRequestHandler.run(156)]: maxBatchSize = 1
+2017-01-26 16:49:25,958 [INFO ][org.jppf.execute.AbstractExecutionManager.<init>(111)]: running 2 processing threads
+2017-01-26 16:49:25,959 [INFO ][org.jppf.execute.AbstractExecutionManager.createThreadManager(137)]: Using default thread manager
+2017-01-27 18:19:18,316 [ERROR][org.jppf.server.node.JPPFNode.run(143)]: could only read 0 bytes out of 4
+java.io.EOFException: could only read 0 bytes out of 4
+	at org.jppf.serialization.SerializationUtils.readToBuf(SerializationUtils.java:453)
+	at org.jppf.serialization.SerializationUtils.readInt(SerializationUtils.java:259)
+	at org.jppf.comm.socket.AbstractSocketWrapper.readInt(AbstractSocketWrapper.java:241)
+	at org.jppf.io.SocketWrapperInputSource.readInt(SocketWrapperInputSource.java:85)
+	at org.jppf.io.IOHelper.readData(IOHelper.java:110)
+	at org.jppf.io.IOHelper.unwrappedData(IOHelper.java:188)
+	at org.jppf.server.node.remote.RemoteNodeIO.deserializeObjects(RemoteNodeIO.java:70)
+	at org.jppf.server.node.AbstractNodeIO.readObjects(AbstractNodeIO.java:108)
+	at org.jppf.server.node.AbstractNodeIO.readTask(AbstractNodeIO.java:82)
+	at org.jppf.server.node.JPPFNode.processNextJob(JPPFNode.java:194)
+	at org.jppf.server.node.JPPFNode.perform(JPPFNode.java:177)
+	at org.jppf.server.node.JPPFNode.run(JPPFNode.java:137)
+	at org.jppf.node.NodeRunner.main(NodeRunner.java:144)
